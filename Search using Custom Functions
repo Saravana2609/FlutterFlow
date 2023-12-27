@@ -27,3 +27,7 @@ bool searchFilterList(
 
   /// MODIFY CODE ONLY ABOVE THIS LINE
 }
+
+//Here it will return True or False. In flutterflow we can using conditional visibility , if the searching term or character or
+// word conatins it will return True then it will visible or wise not.....
+
